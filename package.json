@@ -1,0 +1,24 @@
+{
+  "name": "northwind",
+  "version": "1.0.0",
+  "description": "normswind_db",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silkyjohnson1988/Northwind.git"
+  },
+  "keywords": [
+    "northwind",
+    "normswind",
+    "norms"
+  ],
+  "author": "\"J Strange <julian.strange88@gmail.com> (https://google.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silkyjohnson1988/Northwind/issues"
+  },
+  "homepage": "https://github.com/silkyjohnson1988/Northwind#readme"
+}
